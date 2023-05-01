@@ -1,4 +1,4 @@
-## **A Web Tool For Writers, Avid readers and Thinkers**
+## **Glasp, A Web Tool For Writers, Avid readers and Thinkers**
 
 ### TABLE OF CONTENTS
 
@@ -13,6 +13,8 @@
 - Adding Glasp
 - Using Glasp in Chrome
 - Using your highlights or notes
+
+#### Alternatives to Glasp
 
 ## Introduction
 
@@ -66,6 +68,34 @@ Glasp is perfect for reading on your laptop or desktop because it works with a b
   ![](<../Screenshot%20(72).png>)
 
 Since Glasp is a "social web highlighter" this means that your highlights and notes in a web article will be available for public viewing by everyone who comes across your profile page or if they stumble upon the article you highlighted in their feed.
+
+## Alternatives to Glasp
+
+We have many Social web highlighters we can look forward to as an alternative to Glasp. These apps also help readers organize their content library and remember what they read online with their unique features.
+
+Below is an overview of the best two Social web highlighter apps we can use aside from Glasp.
+
+### Matter
+
+![Logo](../Matter-logo.webp)
+
+Matter, which calls itself the “one place for all your reading” for mobile devices is a mobile read-it-later and highlighter app that focuses on making the reading experience easy on mobile phones and tablets. There are no ads anywhere in the reader's view and you can highlight and take notes within it.
+You can save web articles, Twitter threads, PDFs through their mobile app or browser extension. This is done using the share button on mobile or the browser extension on the desktop.
+The mobile app also lets you switch between text and audio, allowing you to listen to the articles that you have saved. This is a handy feature for those who prefer to listen to the article while they do something else.
+Your saved content appears in the Queue menu of the app. This menu lets you see the upcoming content that you have lined up for reading. You can then archive these web articles once you are done reading.
+Audio Queueing is also an option that lets you listen to your saved content as a playlist.
+Aside from saving web articles and the like, you can fetch free and paid newsletters from your email inbox and send them directly to the app. No need to open your email app to read your subscribed newsletters.
+Another feature exclusive to Matter is the Inbox menu. This is the area where you can see the latest articles from the writers you follow. You can then swipe right to save the article to your Queue or swipe left to archive it.
+
+### Readwise
+
+![Logo](../Readwise-logo.svg)
+
+Readwise is a knowledge management tool focusing on importing and exporting digital content. It has a bunch of integrations with other applications such as iBooks, Instapaper, Kindle, etc. and it allows you to import and export your collections such as notes, highlights, tweets, etc.
+If you’ve ever used a highlighter for the best quotes or highlights, Readwise does that for you, digitally.
+It’s also interesting to keep watching Readwise’s use of AI and its features. Readwise seems to focus on increasing people’s potential and productivity. Readwise will be the people’s must-go place to search for what they read, learned, and wrote.
+And Readwise will be not only the place to import and export content, but also the place to take notes, make a summary, define words, and simplify complex language.
+Unlike Glasp, you don’t need to care about privacy. Everything you import and write is kept private and no one can see or access your knowledge. And one thing to note again is that Readwise is not free.
 
 ## Citation
 
